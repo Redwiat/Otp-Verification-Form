@@ -1,7 +1,6 @@
 # OTP Verification Form in HTML CSS & JavaScript
 A simple OTP verification form implemented using HTML, CSS, and JavaScript. The form allows users to enter their phone number and OTP code, and verifies the code against a hardcoded value for demonstration purposes.
 
-```markdown
 # OTP Verification Form
 
 This repository contains a simple OTP verification form implemented using HTML, CSS, and JavaScript. The form allows users to enter their phone number and OTP code, and verifies the code against a hardcoded value for demonstration purposes.
