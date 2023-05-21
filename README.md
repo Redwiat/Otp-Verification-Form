@@ -36,4 +36,3 @@ Feel free to modify and customize the code to suit your requirements.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
