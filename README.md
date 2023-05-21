@@ -16,7 +16,6 @@ This repository contains a simple OTP verification form implemented using HTML, 
 
 2. Open the `index.html` file in a web browser.
 
-3. Enter a valid phone number and the OTP code to simulate OTP verification.
 
 ## File Structure
 
