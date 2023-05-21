@@ -10,7 +10,7 @@ This repository contains a simple OTP verification form implemented using HTML, 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/otp-verification-form.git
+   git clone https://github.com/Redwiat/otp-verification-form.git
    ```
 
 2. Open the `index.html` file in a web browser.
