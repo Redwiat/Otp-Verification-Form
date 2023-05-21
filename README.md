@@ -21,7 +21,6 @@ This repository contains a simple OTP verification form implemented using HTML, 
 The repository is structured as follows:
 
 ```
-otp-verification-form
 ├── index.html
 ├── style.css
 └── script.js
